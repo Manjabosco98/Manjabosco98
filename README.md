@@ -1,8 +1,4 @@
 ### Olá! Eu sou o João Henrique Manjabosco
-
-- Atualmente estou apenas estudando HTML,HTML5,CSS,CSS3,JAVASCRIPT e NODEJS.
-- Estou em busca de mais conhecimentos nessas linguagens.
-- Meu objetivo e me tornar um back-end. 
 <div>
   <a href="https://github.com/Manjabosco98">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Manjabosco98&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
