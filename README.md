@@ -53,7 +53,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Manjabosco98/Manjabosco98/output/snake.svg" alt="Snake animation" />
-
-###
