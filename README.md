@@ -2,7 +2,22 @@
 
 ###
 
-<p align="left">Olá! Sou o João Henrique Manjabosco, <br>tenho 27 anos, meu foco  e me tornar desenvolvedor Web com foco em análise de dados.</p>
+<p align="left">Olá! 👋 Sou apaixonado por tecnologia e desenvolvimento e acredito que, a cada dia, o mundo precisa se adaptar ainda mais aos avanços tecnológicos. Estou sempre em busca de novos aprendizados e desafios que permitam agregar valor e facilitar o dia a dia das pessoas.
+
+💻 Skills:
+
+Linguagens de Programação: HTML5, CSS3, JavaScript, Python.<br>
+Frameworks e Ferramentas: Flask, Django, FastAPI, Pandas, Numpy, Selenium.<br><br>
+🚀 Áreas de Interesse:
+Tenho um forte interesse em desenvolvimento web, ciência de dados, automação e inteligência artificial. Atualmente, estou me aprofundando em Python para análise de dados, desenvolvimento, criação de automações RPA e aplicações de inteligência artificial.
+
+🔨 Projetos Favoritos:
+Gosto especialmente de desenvolver automações e tenho interesse em criar um sistema operacional integrado com IA no futuro. Um dos projetos dos quais me orgulho é uma automação que criei e que aumentou o rendimento do time no meu trabalho.
+
+🎯 Objetivos:
+Meu objetivo é me tornar um desenvolvedor full stack e um analista de dados, sempre buscando soluções inovadoras e eficientes.
+
+Vamos nos conectar? Fique à vontade para explorar meus repositórios e colaborar!</p>
 
 ###
 
