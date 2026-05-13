@@ -71,9 +71,9 @@ Automações corporativas para redução de tarefas manuais e aumento de produti
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Manjabosco98&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manjabosco98&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjabosco98&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjabosco98&layout=compact&theme=github_dark"/>
 
 </div>
 
